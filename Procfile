@@ -1,3 +1,3 @@
-web: pip install gunicorn && gunicorn Seguridad.seguridadLogin.wsgi
+web: pip install gunicorn && gunicorn seguridadLogin.wsgi
 
 
